@@ -1,4 +1,4 @@
-# Image Stitching Project
+![1](https://github.com/Arnavsao/DIC-Project-Image-Stitching-using-OpenCV/assets/140349606/4804bc12-bc1d-4ca4-805d-80664737b5ff)# Image Stitching Project
 
 ## Overview
 This project automates the creation of panoramic images by stitching together multiple input images using Python and OpenCV. It seamlessly merges overlapping fields of view to produce high-quality panoramic views.
@@ -30,3 +30,23 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 This project is inspired by the contributions of researchers and developers in computer vision and image processing.
+
+
+
+
+![1](https://github.com/Arnavsao/DIC-Project-Image-Stitching-using-OpenCV/assets/140349606/aa347c27-ada8-447c-9814-2f5876d000bf)![2](https://github.com/Arnavsao/DIC-Project-Image-Stitching-using-OpenCV/assets/140349606/abbdfdc0-3d11-4174-925c-82dfa94296de)![3](https://github.com/Arnavsao/DIC-Project-Image-Stitching-using-OpenCV/assets/140349606/b0b6cf7b-aa16-40eb-929f-d00385f445b6)![4](https://github.com/Arnavsao/DIC-Project-Image-Stitching-using-OpenCV/assets/140349606/cb0c74cb-ae96-4bca-a639-57986b191139)
+
+
+![stitchedOutput (3)](https://github.com/Arnavsao/DIC-Project-Image-Stitching-using-OpenCV/assets/140349606/6aeb94a8-b019-4407-bbd5-b6bf1e33c101)
+
+
+
+
+
+
+
+
+
+
+
+
